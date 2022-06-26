@@ -1,2 +1,2 @@
 # 7DaysOfCode
-Reposítório para os Desafios de Código da Alura.
+Repositório para os Desafios de Código da Alura.
